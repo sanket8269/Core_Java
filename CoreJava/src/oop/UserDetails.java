@@ -8,11 +8,11 @@ public class UserDetails {
 	public static void main(String[] args) throws ParseException {
 		
 		//Date d = new Date();
-				String s = "08/09/1999";
+				String s = "27/09/1996";
 				SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 				Date d = sdf.parse(s);
 		
-		Person p = new Person("Trapti Bhagat", d , "155, Nyay Nagar");
+		Person p = new Person("Sanket Jain", d , "83, Indore");
 		Account a = new Account();
 		Automobile x = new Automobile();
 		
