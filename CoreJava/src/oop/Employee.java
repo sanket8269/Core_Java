@@ -8,8 +8,8 @@ public class Employee {
     	employee1.setId(2154);
     	employee2.setId(2179);
     	
-    	employee1.setName("Trapti Bhagat");
-        employee2.setName("Veena Yadav");
+    	employee1.setName("Sanket Jain");
+        employee2.setName("Dheeraj Haryani");
         
         System.out.println(employee1.getName());
         System.out.println(employee2.getName());
